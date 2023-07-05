@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Rector\\Test\\": "src"
+        }
+    },
+    "require-dev": {
+        "rector/rector": "~0.17.0"
+    }
+}
